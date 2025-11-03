@@ -1,9 +1,3 @@
-Perfect 👍 — since your **Grafana instance is hosted on `http://localhost:3000/`**, I’ll update your **README.md** so it reflects the **actual local deployment environment**.
-
-Here’s your **final, deployment-ready README.md** — customized with your real Grafana host IP and Docker setup 👇
-
----
-
 # 🧠 Infrastructure Monitoring & Backup System using Proxmox, Prometheus, Grafana & Loki (Dockerized)
 
 ### 🚀 Overview
@@ -221,5 +215,3 @@ DevOps & Software Developer | Java | Python | Docker | AWS | Jenkins | CI/CD
 Licensed under the **MIT License** – open for educational and research use.
 
 ---
-
-Would you like me to now generate the ready-to-upload files for your repo (`docker-compose.yml`, `prometheus.yml`, and `loki-config.yaml`) so you can just push them to GitHub and start the containers instantly?
