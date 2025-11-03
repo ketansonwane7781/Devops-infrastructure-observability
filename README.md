@@ -25,7 +25,8 @@ It provides **virtualization, metrics visualization, log monitoring, and automat
 
 ## 🧩 Architecture Diagram
 
-![Architecture Diagram](A_diagram_in_the_image_illustrates_an_Infrastructu.png)
+<img width="1536" height="1024" alt="ChatGPT Image Nov 3, 2025, 03_17_28 PM" src="https://github.com/user-attachments/assets/a8b3582c-6331-44a5-b5c4-ac62f4ada297" />
+
 
 **Workflow Summary:**
 
