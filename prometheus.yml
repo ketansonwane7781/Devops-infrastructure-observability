@@ -1,0 +1,21 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['prometheus:9090']
+
+  - job_name: 'node_exporter'
+    static_configs:
+      - targets: ['localhost:9100']   # Example: Node Exporter host for your Proxmox server
+        labels:
+          instance: proxmox-server
+
+  - job_name: 'proxmox'
+    metrics_path: /api2/json
+    static_configs:
+      - targets: ['localhost']   # Replace with your Proxmox VE host IP
+        labels:
+          instance: proxmox-ve
