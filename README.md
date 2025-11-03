@@ -5,7 +5,7 @@
 This project implements a **containerized infrastructure monitoring and backup system** integrating **Proxmox VE**, **Proxmox Backup Server**, **Prometheus**, **Grafana**, and **Loki**.
 It provides **virtualization, metrics visualization, log monitoring, and automated backups** — all hosted in a **Dockerized environment** accessible via Grafana at:
 
-🔗 **[http://172.16.16.206:3000/](http://172.16.16.206:3000/)**
+🔗 **[http://172.16.16.206:3000/](http://localhost:3000/)**
 
 ---
 
