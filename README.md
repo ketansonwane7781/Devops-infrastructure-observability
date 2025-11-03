@@ -174,6 +174,10 @@ Refer to:
 Below is an example of the **Grafana Dashboard** displaying server health, memory, and CPU utilization:
 
 ![Grafana Dashboard](9f703eb5-b776-494d-8f71-d69c437d7c56.png)
+<img width="1912" height="975" alt="image" src="https://github.com/user-attachments/assets/568cd47d-96cf-4e74-8c12-95aa6d0e1cc4" />
+<img width="1912" height="925" alt="image" src="https://github.com/user-attachments/assets/1dd5047a-4f0f-41b4-86d8-afb9e386dadc" />
+
+
 
 ---
 
